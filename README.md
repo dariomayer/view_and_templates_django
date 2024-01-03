@@ -1,0 +1,1 @@
+# view_and_templates_django
